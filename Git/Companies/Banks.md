@@ -4,7 +4,8 @@ International
     Barclays
     Standard Chartered
     Wells Fargo
-    
+    Deutsche
+
 Domestic
     HDFC
 
@@ -24,3 +25,10 @@ Software
     Temenos
     Stane street
     Transunion
+    PayPal
+
+Startups 
+    Zerodha
+    Groww
+    CRED
+    CashFree
