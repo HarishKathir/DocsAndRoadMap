@@ -1,14 +1,12 @@
-Banks
-
 International
     HSBC
     Citi
     Barclays
-    Standard chartered
+    Standard Chartered
 
 Domestic
     HDFC
 
-Investment Banking
+Investment
     JPMC
-    Morgan stanley
+    Morgan Stanley
