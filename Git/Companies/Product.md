@@ -6,6 +6,8 @@ Big Players
     Amazon
     HPE
     uber
+    IBM
+    Atlassian
 
 Mid Players
     Bosch
@@ -17,3 +19,6 @@ New AddOns
 Power startups
     Ola
     Payoda
+
+Misc
+    Applied Materials
