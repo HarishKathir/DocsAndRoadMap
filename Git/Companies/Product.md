@@ -8,6 +8,8 @@ Big Players
     uber
     IBM
     Atlassian
+    intel
+    amd
 
 Mid Players
     Bosch
