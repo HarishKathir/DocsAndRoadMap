@@ -20,6 +20,20 @@ Cards and Payments
     PineLabs
     Flywire
 
+    fiserv
+    adyen
+    stripe
+    GMO
+    verizon
+    2checkout
+    ccbill
+    securepay
+    paypal
+    naspers ltd
+    global payments inc
+    
+
+
 Software 
     Finacle
     Temenos
