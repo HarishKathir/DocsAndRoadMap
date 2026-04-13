@@ -5,6 +5,8 @@ International
     Standard Chartered
     Wells Fargo
     Deutsche
+    LLoyds Bank
+    Capital Ones
 
 Domestic
     HDFC
