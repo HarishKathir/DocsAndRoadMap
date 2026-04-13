@@ -12,6 +12,7 @@ Big Players
     AMD
     SAP
     Salesforce
+    siemens
 
 Mid Players
     Bosch
