@@ -13,6 +13,7 @@ Big Players
     SAP
     Salesforce
     siemens
+    confluent
 
 Mid Players
     Bosch
