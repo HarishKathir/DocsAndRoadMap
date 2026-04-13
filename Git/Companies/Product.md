@@ -9,7 +9,9 @@ Big Players
     IBM
     Atlassian
     intel
-    amd
+    AMD
+    SAP
+    Salesforce
 
 Mid Players
     Bosch
