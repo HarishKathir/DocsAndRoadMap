@@ -22,6 +22,8 @@ Cards and Payments
     Phonepay
     PineLabs
     Flywire
+    Societe Generale
+    
 
     fiserv
     adyen

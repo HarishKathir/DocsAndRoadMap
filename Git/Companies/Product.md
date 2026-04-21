@@ -14,10 +14,18 @@ Big Players
     Salesforce
     siemens
     confluent
+    Boeing
+    Ericcson
+    Walmart
+
 
 Mid Players
     Bosch
     Thoughtworks
+    Philips
+    TESCO
+    Honeywell
+    Electrolux
 
 New AddOns
     BlackHawk Network
