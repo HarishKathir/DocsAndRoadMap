@@ -30,7 +30,7 @@
         - String Pool
         - String Immutability
     - Access Specifiers
-    -Casting
+    - Casting
         - Implicit
         - Explicit
     - Methods and Types
